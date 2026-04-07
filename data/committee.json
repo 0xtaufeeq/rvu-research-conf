@@ -1,0 +1,288 @@
+[
+  {
+    "title": "CHIEF PATRON",
+    "message": null,
+    "members": [
+      {
+        "image": "MPSHYAM.webp",
+        "name": "Dr. M P Shyam",
+        "email": "",
+        "position": "President, RSST"
+      }
+    ]
+  },
+  {
+    "title": "PATRON",
+    "message": null,
+    "members": [
+      {
+        "image": "AVS.webp",
+        "name": "Dr. A V S Murthy",
+        "email": "",
+        "position": "Hon. Secretary, RSST"
+      },
+      {
+        "image": "DPN.webp",
+        "name": "Sri. D P Nagaraj",
+        "email": "",
+        "position": "Hon. Joint Secretary, RSST"
+      },
+      {
+        "image": "NikhilAMurthy.webp",
+        "name": "Sri. Nikhil A Murthy",
+        "email": "",
+        "position": "Hon. Assistant Secretary, RSST"
+      }
+    ]
+  },
+  {
+    "title": "ADVISORY BOARD",
+    "message": null,
+    "members": [
+      {
+        "image": "DwarikaPrasad.webp",
+        "name": "Prof. (Dr.) Dwarika Uniyal",
+        "email": "",
+        "position": "Vice Chancellor"
+      },
+      {
+        "image": "SahanaGowda.webp",
+        "name": "Dr. Sahana D. Gowda",
+        "email": "",
+        "position": "Registrar"
+      }
+    ]
+  },
+  {
+    "title": "HONORARY CHAIR",
+    "message": "Details will be updated soon. Stay tuned!",
+    "members": []
+  },
+  {
+    "title": "GENERAL CHAIR",
+    "message": null,
+    "members": [
+      {
+        "image": "GShobha.webp",
+        "name": "Dr. G Shobha",
+        "email": "",
+        "position": "Professor and Dean, School of Computer Science and Engineering"
+      }
+    ]
+  },
+  {
+    "title": "CONVENER",
+    "message": null,
+    "members": [
+      {
+        "image": "Manish.webp",
+        "name": "Dr. Manish Kumar",
+        "email": "",
+        "position": "Associate Professor, MCA, M.Phil (Computer Science), Post Graduate Diploma - Cyber Law, Ph.D (Computer Science)"
+      },
+      {
+        "image": "AishwaryaSingh.webp",
+        "name": "Prof. Aishwarya Singh Gautam",
+        "email": "",
+        "position": "Assistant Professor, MTech, Pursuing PhD (Co-Chair)"
+      }
+    ]
+  },
+  {
+    "title": "PROGRAM CHAIR",
+    "message": null,
+    "members": [
+      {
+        "image": "MerinThomas.webp",
+        "name": "Dr. Merin Thomas",
+        "email": "",
+        "position": "Assistant Dean - IQAC, Minors Specialisations, & General Electives PhD"
+      },
+      {
+        "image": "VidyaMJ.webp",
+        "name": "Dr. Vidya M J",
+        "email": "",
+        "position": "Associate Prof, Program Director B.S.c Specialisations, & General Electives: Embedded Systems, Signal & Image Processing PhD: Secured Signal & Image Data Transmission, VTU (Co-Chair)"
+      },
+      {
+        "image": "AshwiniKodipalli.webp",
+        "name": "Dr. Ashwini Kodipalli",
+        "email": "",
+        "position": "Professor Specialisations, & General Electives: Biomedical Image Analysis, AI in Healthcare Diagnostics PhD: Early Detection of Ovarian Tumors and PCOD using Image Processing and AI (Co-Chair)"
+      }
+    ]
+  },
+  {
+    "title": "TECHNICAL PROGRAM CHAIR",
+    "message": null,
+    "members": [
+      {
+        "image": "Manish.webp",
+        "name": "Dr. Manish Kumar",
+        "email": "",
+        "position": "Associate Professor, MCA, M.Phil (Computer Science), Post Graduate Diploma - Cyber Law, Ph.D (Computer Science)"
+      },
+      {
+        "image": "SudhakarKN.webp",
+        "name": "Dr. Sudhakar K N",
+        "email": "",
+        "position": "Program Director - B.Tech Program Specialisations, & General Electives: Wireless Sensor Networks, ERP Systems, Virtual Labs PhD: Wireless Sensor Networks, VTU, 2020 (Co-Chair)"
+      }
+    ]
+  },
+  {
+    "title": "TECHNICAL PROGRAM MEMBER",
+    "message": "Details will be updated soon. Stay tuned!",
+    "members": []
+  },
+  {
+    "title": "SPONSORSHIP CHAIR",
+    "message": null,
+    "members": [
+      {
+        "image": "ShushrushaKS.webp",
+        "name": "Dr. Shushrutha K S",
+        "email": "",
+        "position": "Associate Professor Specialisations, & General Electives: Electromagnetics, Antenna Design, Array Signal Processing PhD: Electromagnetics & Array Signal Processing, VTU"
+      },
+      {
+        "image": "Chidhananda.webp",
+        "name": "Prof. Chidhanand R S",
+        "email": "",
+        "position": "Assistant Professor Specialisations, & General Electives: Product Design & Innovation, Audio Engineering, Material Science, Design Thinking PhD: Pursuing - Focused on Product Development and Experiential Methodologies (Co-Chair)"
+      }
+    ]
+  },
+  {
+    "title": "PUBLICITY AND MEDIA CHAIR",
+    "message": null,
+    "members": [
+      {
+        "image": "Chidhananda.webp",
+        "name": "Prof. Chidhanand R S",
+        "email": "",
+        "position": "Assistant Professor Specialisations, & General Electives: Product Design & Innovation, Audio Engineering, Material Science, Design Thinking PhD: Pursuing - Focused on Product Development and Experiential Methodologies"
+      },
+      {
+        "image": "ShushrushaKS.webp",
+        "name": "Dr. Shushrutha K S",
+        "email": "",
+        "position": "Associate Professor Specialisations, & General Electives: Electromagnetics, Antenna Design, Array Signal Processing PhD: Electromagnetics & Array Signal Processing, VTU (Co-Chair)"
+      }
+    ]
+  },
+  {
+    "title": "WEB SITE AND EASYCHAIR CHAIRS",
+    "message": null,
+    "members": [
+      {
+        "image": "AishwaryaSingh.webp",
+        "name": "Prof. Aishwarya Singh Gautam",
+        "email": "",
+        "position": "Assistant Professor, MTech, Pursuing PhD (Co-Chair)"
+      }
+    ]
+  },
+  {
+    "title": "FINANCE COMMITTEE",
+    "message": null,
+    "members": [
+      {
+        "image": "Chethan.webp",
+        "name": "Prof. Chethan",
+        "email": "",
+        "position": "Assistant Professor, MTech, Pursuing PhD"
+      }
+    ]
+  },
+  {
+    "title": "REGISTRATION COMMITTEE",
+    "message": null,
+    "members": [
+      {
+        "image": "AshwiniKodipalli.webp",
+        "name": "Prof. Ashwini Kodipalli",
+        "email": "",
+        "position": "Assistant Professor Specialisations, & General Electives: Artificial Intelligence, Machine Learning, Curriculum Design, Technical Skill Development PhD: Pursuing – Artificial Intelligence and Machine Learning, VTU"
+      }
+    ]
+  },
+  {
+    "title": "SESSION MANAGEMENT",
+    "message": null,
+    "members": [
+      {
+        "image": "MerinThomas.webp",
+        "name": "Dr. Merin Thomas",
+        "email": "",
+        "position": "Assistant Dean - IQAC, Minors Specialisations, & General Electives PhD (Chair)"
+      },
+      {
+        "image": "JeethuVD.webp",
+        "name": "Dr. Jeethu V. Devasia",
+        "email": "",
+        "position": "Associate Professor Specialisations, & General Electives: Computational Biology, Biological Networks, Causal Gene Identification PhD: Computational Approaches in Biological Networks, NIT Calicut (Co-Chair)"
+      }
+    ]
+  },
+  {
+    "title": "HOSPITALITY & TRANSPORTATION COMMITTEE",
+    "message": null,
+    "members": [
+      {
+        "image": "Chethan.webp",
+        "name": "Prof. Chethan",
+        "email": "",
+        "position": "Assistant Professor, MTech, Pursuing PhD"
+      }
+    ]
+  },
+  {
+    "title": "PUBLICATION CHAIR",
+    "message": null,
+    "members": [
+      {
+        "image": "BaishaliG.webp",
+        "name": "Dr. Baishali Garai",
+        "email": "",
+        "position": "Program Director - Basic Sciences Program Specialisations, & General Electives: Nanotechnology, Sensor Development, Graphene-based Space Sensors PhD: Nanotechnology, Indian Institute of Science (IISc), Bangalore (Chair)"
+      },
+      {
+        "image": "SathyaD.webp",
+        "name": "Dr. Sathya D",
+        "email": "",
+        "position": "Program Director - BCA Program Specialisations, & General Electives: IoT, Blockchain Technology, Data Security in Sensor Networks PhD: Data Security in Sensor Networks, Anna University, Chennai (Co-Chair)"
+      },
+      {
+        "image": "Chakravarthula.webp",
+        "name": "Dr. Chakravarthula S K Raju",
+        "email": "",
+        "position": "Assistant Professor Specialisations, & General Electives: Fluid Dynamics, Mathematical Modeling, Applied Mathematics PhD: Applied Mathematics (Fluid Dynamics), VIT University, Vellore (Co-Chair)"
+      }
+    ]
+  },
+  {
+    "title": "INTERNATIONAL RELATIONS COMMITTEE",
+    "message": null,
+    "members": [
+      {
+        "image": "HemalataS.webp",
+        "name": "Ms. Hemalata Sharma",
+        "email": "",
+        "position": "Director of International Office, RV University Specialisations, & General Electives: International Relations, Public Policy, Sustainable Development, Microfinance (Chair)"
+      },
+      {
+        "image": "BaluMasti.webp",
+        "name": "Prof. Balu Masti",
+        "email": "",
+        "position": "Adjunct Professor, School of Computer Science and Engineering, MS in CSE, University of Nebraska-Lincoln, USA"
+      },
+      {
+        "image": "PCDeshmukh.webp",
+        "name": "Prof. Pranawachandra C Deshmukh",
+        "email": "",
+        "position": "(Co-Chair)"
+      }
+    ]
+  }
+]
