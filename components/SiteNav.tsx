@@ -8,8 +8,7 @@ import { siteConfig } from "@/lib/config";
 const links = [
   { href: "/", label: "Home" },
   { href: "/about", label: "About" },
-  { href: "/committee", label: "Committee" },
-  { href: "/tracks", label: "Tracks" },
+  { href: "/author-information", label: "Author Info" },
   { href: "/contact", label: "Contact" },
 ] as const;
 
@@ -75,14 +74,6 @@ export function SiteNav() {
               </li>
             );
           })}
-          <li>
-            <span
-              className="block cursor-not-allowed px-3 py-2.5 text-[13px] text-white/35 md:py-4"
-              title="Coming soon"
-            >
-              Timeline
-            </span>
-          </li>
         </ul>
       </div>
     </nav>

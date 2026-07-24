@@ -3,8 +3,7 @@ import { siteConfig } from "@/lib/config";
 
 const quick = [
   { href: "/about", label: "About" },
-  { href: "/tracks", label: "Tracks" },
-  { href: "/committee", label: "Committee" },
+  { href: "/author-information", label: "Author Info" },
   { href: "/contact", label: "Contact" },
 ] as const;
 

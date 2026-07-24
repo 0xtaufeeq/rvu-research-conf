@@ -18,7 +18,7 @@ const sourceSerif = Source_Serif_4({
 
 export const metadata: Metadata = {
   title: {
-    default: "RAISQE'26 | IEEE Conference | RV University",
+    default: "RAISQE'26 | International Conference | RV University",
     template: "%s | RAISQE'26",
   },
   description:
